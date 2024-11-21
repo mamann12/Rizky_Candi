@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:flutter/models/candi.dart';
+import 'package:wisata_candi_rizky/models/candi.dart';
 
 class SearchScreen extends StatefulWidget {
   const SearchScreen({super.key});

@@ -9,7 +9,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_test/flutter_test.dart';
 
 // ignore: depend_on_referenced_packages
-import 'package:wisatacandi/main.dart';
+import 'package:wisata_candi_rizky/main.dart';
 
 void main() {
   testWidgets('Counter increments smoke test', (WidgetTester tester) async {
