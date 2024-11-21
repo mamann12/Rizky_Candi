@@ -22,7 +22,7 @@ class _HomeScreenState extends State<HomeScreen> {
       padding: const EdgeInsets.all(8),
       itemCount: candiList.length,
       itemBuilder: (context, index) => 
-      ),
+      )
       );
   
   }
